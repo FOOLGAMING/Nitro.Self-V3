@@ -1,8 +1,10 @@
 {
-  "token": "put your token here",
-  "nitro_max": 2,
+  "token": "ODUyOTcxMDE1ODUxMDgxNzc5.G1NXqS.7uR3HJxoHuTAyD5bEP8V_Btc2zGFlMBDH6NVLc
+
+",
+  "nitro_max": 10,
   "cooldown": 24,
-  "giveaway_sniper": true,
+  "giveaway_sniper": false,
 
   "giveaway_delay": {
     "minimum": 60,
@@ -10,10 +12,10 @@
   },
 
   "snipe_on_main": true,
-  "dm_host": true,
+  "dm_host": false,
   "dm_message": "hi, i won your giveaway!",
-  "webhook_url": "",
-  "webhook_ping_id": "",
-  "report_fails_to_webhook": false,
+  "webhook_url": "https://discord.com/api/webhooks/1038800869090656276/zgf04BoCQo_XyWPTh6VcwSxuIzJER6vmOHTWBjJKmXfZ59BqmcwCdxtTud6awbFjfIjf",
+  "webhook_ping_id": "493320149315747840",
+  "report_fails_to_webhook": true,
   "save_cache": true
 }
